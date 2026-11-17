@@ -1,0 +1,9 @@
+.venv/
+data/
+models/
+__pycache__/
+*.wav
+*.tar.gz
+docs/RESEARCH_BRIEF.md
+out/
+results/local_dev/
